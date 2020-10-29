@@ -1,34 +1,35 @@
 WEAPON	RANGE	TYPE	S	AP	D	ABILITIES 	COST
-Acid spit	8"	Pistol 1	User	-1	1	-	??
+Acid spit	8"	Pistol 1	User	-1	1	-	00
 Attendants’ claws and teeth	Melee	Melee	2	0	1	Plague Weapon_Each time Mortarion fights, he may make D6 additional attacks with this weapon.	??
-Autogun	24"	Rapid Fire 1	3	0	1	-	??
-Autopistol	12"	Pistol 1	3	0	1	-	??
-Balefire missiles	36"	Heavy 2D3	6	-1	D3	Blast_Units targeted by this weapon do not gain any bonus to their saving throws for being in cover.	??
+Autogun	24"	Rapid Fire 1	3	0	1	-	0
+Autopistol	12"	Pistol 1	3	0	1	-	0
+Balefire missiles	36"	Heavy 2D3	6	-1	D3	Blast_Units targeted by this weapon do not gain any bonus to their saving throws for being in cover.	30
 Balesword	Melee	Melee	User	-3	1	Plague Weapon	??
-Battle cannon	72"	Heavy D6	8	-2	D3	Blast	??
-Belly-flamer	8"	Assault D6	4	0	1	This weapon automatically hits its target.	??
-Bile maw	12"	Pistol D3	8	-2	D3	You can re-roll any wound rolls of 1 when attacking with this weapon.	??
-Bile spurt	12"	Assault D3	6	-1	1	Blast_Plague Weapon	??
+Battle cannon	72"	Heavy D6	8	-2	D3	Blast	0
+Belly-flamer	8"	Assault D6	4	0	1	This weapon automatically hits its target.	00
+Bile maw	12"	Pistol D3	8	-2	D3	You can re-roll any wound rolls of 1 when attacking with this weapon.	0
+Bile spurt	12"	Assault D3	6	-1	1	Blast_Plague Weapon	0
 Blade of Decay	Melee	Melee	+2	-4	6	-	??
 Blade struts	Melee	Melee	User	-2	2	-	??
-Blight grenade	6"	Grenade D6	3	0	1	Blast_Plague Weapon	??
-Blight launcher	24"	Assault 2	6	-2	D3	Plague Weapon	??
-Blightreaper cannon	36"	Heavy 4	7	-1	2	Each time you make a wound roll of 6+ for this weapon, that hit is resolved with an AP of -3 instead of -1.	??
+Blight grenade	6"	Grenade D6	3	0	1	Blast_Plague Weapon	0
+Blight launcher	24"	Assault 2	6	-2	D3	Plague Weapon	10
+Blightreaper cannon	36"	Heavy 4	7	-1	2	Each time you make a wound roll of 6+ for this weapon, that hit is resolved with an AP of -3 instead of -1.	0
 Bloodsucking proboscis	Melee	Melee	User	0	1	Each unmodified hit roll of 6 made for an attack with this weapon scores 2 hits.	??
-Bolt pistol	12"	Pistol 1	4	0	1	-	??
-Boltgun	24"	Rapid Fire 1	4	0	1	-	??
+Bolt pistol	12"	Pistol 1	4	0	1	-	0
+Boltgun	24"	Rapid Fire 1	4	0	1	-	0
 Brutal assault weapon	Melee	Melee	User	0	1	Each time the bearer fights, it can make 1 additional attack with this weapon.	??
 Bubotic axe	Melee	Melee	+1	-2	1	Plague Weapon	??
-Butcher cannon	36"	Heavy 4	8	-1	2	If a unit has any models slain by any butcher cannon in the Shooting phase, the unit must subtract 2 from its Leadership for the rest of the turn._This modifier is not cumulative.	??
-Butcher cannon array	36"	Heavy 8	8	-1	2	If a unit has any models slain by any butcher cannon in the Shooting phase, the unit subtracts 2 from its Leadership for the rest of the turn._This modifier is not cumulative.	??
-C-beam cannon	72"	Heavy 1	6	-3	D3	This weapon may not be fired on any turn in which the model carrying it has moved._In addition, for each 24" between the bearer and the target, increase the Strength by +2 and the Damage by +D3._If a model is removed from play as a casualty due to wounds caused by this weapon, then the target unit suffers 2D6 additional hits at Strength 6, AP 0, causing 1 Damage._These additional hits do not trigger further hits themselves.	??
+Butcher cannon	36"	Heavy 4	8	-1	2	If a unit has any models slain by any butcher cannon in the Shooting phase, the unit must subtract 2 from its Leadership for the rest of the turn._This modifier is not cumulative.	35
+Butcher cannon array	36"	Heavy 8	8	-1	2	If a unit has any models slain by any butcher cannon in the Shooting phase, the unit subtracts 2 from its Leadership for the rest of the turn._This modifier is not cumulative.	75
+C-beam cannon	72"	Heavy 1	6	-3	D3	This weapon may not be fired on any turn in which the model carrying it has moved._In addition, for each 24" between the bearer and the target, increase the Strength by +2 and the Damage by +D3._If a model is removed from play as a casualty due to wounds caused by this weapon, then the target unit suffers 2D6 additional hits at Strength 6, AP 0, causing 1 Damage._These additional hits do not trigger further hits themselves.	30
 Canker worms	Melee	Melee	2	0	1	After this model makes their close combat attacks, the canker worms infesting Cor’bax make their attacks separately._Make D6 additional attacks using this weapon profile.	??
 Chainaxe	Melee	Melee	+1	-1	1	-	??
 Chainfist	Melee	Melee	x2	-4	2	When attacking with this weapon, you must subtract 1 from the hit roll.	??
 Chainsword	Melee	Melee	User	0	1	When the bearer fights, it makes 1 additional attack with this weapon.	??
-Combi-bolter	24"	Rapid Fire 2	4	0	1	-	??
-Combi-flamer - Boltgun	24"	Rapid Fire 1	4	0	1	-	??
-Combi-flamer - Flamer	8"	Assault D6	4	0	1	This weapon automatically hits its target.	??
+Combi-bolter	24"	Rapid Fire 2	4	0	1	-	3
+Combi-flamer           When attacking with this weapon, choose one or both of the profiles below. If you choose both, subtract 1 from all hit rolls for this weapon.  10
+Combi-flamer - Boltgun	24"	Rapid Fire 1	4	0	1	-
+Combi-flamer - Flamer	8"	Assault D6	4	0	1	This weapon automatically hits its target.
 Combi-melta - Boltgun	24"	Rapid Fire 1	4	0	1	-	??
 Combi-melta - Meltagun	12"	Assault 1	8	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.	??
 Combi-plasma - Boltgun	24"	Rapid Fire 1	4	0	1	-	??
