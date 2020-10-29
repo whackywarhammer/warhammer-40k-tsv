@@ -27,7 +27,7 @@ Chainaxe	Melee	Melee	+1	-1	1	-	??
 Chainfist	Melee	Melee	x2	-4	2	When attacking with this weapon, you must subtract 1 from the hit roll.	??
 Chainsword	Melee	Melee	User	0	1	When the bearer fights, it makes 1 additional attack with this weapon.	??
 Combi-bolter	24"	Rapid Fire 2	4	0	1	-	3
-Combi-flamer           When attacking with this weapon, choose one or both of the profiles below. If you choose both, subtract 1 from all hit rolls for this weapon.  10
+Combi-flamer  _ _ _ _ _ When attacking with this weapon, choose one or both of the profiles below. If you choose both, subtract 1 from all hit rolls for this weapon.  10
 Combi-flamer - Boltgun	24"	Rapid Fire 1	4	0	1	-
 Combi-flamer - Flamer	8"	Assault D6	4	0	1	This weapon automatically hits its target.
 Combi-melta - Boltgun	24"	Rapid Fire 1	4	0	1	-	??
