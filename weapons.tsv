@@ -169,8 +169,28 @@ Skyreaper battery	48"	Heavy 8	7	-1	5	Add 1 to all hit rolls made for this weapon
 Soulburner	24"	Assault D3	-	0	1	Each successful hit roll made with this weapon inflicts a mortal wound instead of the normal damage.	??
 Soulburner bombard	48"	Heavy 2D3	-	0	1	Blast_Each successful hit roll made with this weapon inflicts a mortal wound instead of the normal damage._This weapon may target enemy units which the bearer cannot see.	??
 Soulburner petard	24"	Assault 2D3	-	0	1	Each successful hit roll made with this weapon inflicts a mortal wound instead of the normal damage._If any hit roll made in a given phase results in a score or a ‘1’, then the firing unit suffers one mortal wound._This effect can only occur once per phase regardless of how many results of ‘1’ are rolled.	??
+Soulburner ribaudkin	18"	Heavy 2D3	-	0	1	Each successful hit roll made with this weapon inflicts a mortal wound instead of the normal damage.	??
+Soulstalker missiles	60"	Heavy D3	7	-2	2	Blast_Each time you roll a wound roll of 5+ for this weapon, the target suffers a mortal wound in addition to the weapon's normal damage.	??
 Spawning barb	Melee	Melee	User	0	1	Each unmodified hit roll of 6 made for this weapon automatically results in a wound (do not make a wound roll for that attack).	??
+Storm bolter	24"	Rapid Fire 2	4	0	1	-	??
 Tainted force blade	Melee	Melee	+1	-2	D3	You can re-roll wound rolls of 1 for this weapon.	??
 Termite drill	Melee	Melee	x2	-4	3	After the bearer has made all of its attacks, roll a D6 for each model that suffered damage from this weapon this phase but has not been destroyed; on a 2+ the model being rolled for suffers a mortal wound and, if that model is not destroyed, you can roll another D6._This time, that model suffers a mortal wound on a 3+._Keep rolling a D6, increasing the result required to cause a mortal wound by 1 each time, until the model being rolled for is destroyed or the roll is failed.	??
+The Destroyer Hive	6"	Pistol 2D6	4	-3	1	This weapon hits on hit rolls of 5+ (even when firing Overwatch), regardless of any modifiers.	??
+The Lantern	18"	Pistol 1	8	-3	3	If you hit with this weapon, draw a straight line between the closest point of Mortarion’s base and that of the closest model in the target unit._Make a single wound roll against the target unit and each unit the centre of the line passes over.	??
+Thermal jet array	6"	Pistol D6	8	-1	D3	When fired, this weapon automatically inflicts D6 hits on each unit, friendly or enemy, with at least one model within range._The weapon can only be used if more enemy units will be affected than friendly ones.	??
+Thermal jets	6"	Pistol D6	6	-1	1	When fired, this weapon automatically inflicts D6 hits on each unit, friendly or enemy, with at least one model within range._The weapon can only be used if more enemy units will be affected than friendly ones.	??
+Thunderhawk heavy cannon	48"	Heavy 2D6	8	-2	D6	Blast	??
+Turbo-laser destructor	96"	Heavy D3	16	-4	2D6	Blast_Any wound roll of a 6 made with this attack automatically inflicts an additional D3 mortal wounds on the target.	??
+Twin accelerator autocannon	48"	Assault 8	7	-1	2	Attacks made with this weapon suffer no penalty to its hit roll when targeting units with the FLY keyword._In addition, every wound roll of 6+ made with this weapon increases the AP of that individual wound to -3.	??
+Twin autocannon	48"	Heavy 4	7	-1	2	-	??
+Twin avenger bolt cannon	36"	Heavy 10	6	-2	2	-	??
+Twin heavy bolter	36"	Heavy 6	5	-1	1	-	??
+Twin heavy flamer	8"	Heavy 2D6	5	-1	1	This weapon automatically hits its target.	??
+Twin lascannon	48"	Heavy 2	9	-3	D6	-	??
+Twin multi-melta	24"	Heavy 2	8	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.	??
+Twin volcano cannon	120"	Heavy 2D6	16	-5	2D6	Blast_You can re-roll failed wound rolls when targeting TITANIC models with this weapon.	??
+Twin volkite charger	15"	Heavy 4	5	0	2	-	??
+Vengeance launcher	48"	Heavy 2D6	5	-1	1	Blast	??
+Warp bolter	24"	Assault 2	4	-1	2	-	??
 Warpsword	Melee	Melee	User	-3	3	You can re-roll failed hit rolls for this weapon.	??
 Yawning maw	Melee	Melee	5	-1	D3	All hit rolls of a 6 made when using this weapon generate a single additional automatic hit.	??
