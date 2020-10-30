@@ -21,7 +21,7 @@ Brutal assault weapon	Melee	Melee	User	0	1	Each time the bearer fights, it can m
 Bubotic axe	Melee	Melee	+1	-2	1	Plague Weapon	5		
 Butcher cannon	36	Heavy 4	8	-1	2	If a unit has any models slain by any butcher cannon in the Shooting phase, the unit must subtract 2 from its Leadership for the rest of the turn._This modifier is not cumulative.	35		
 Butcher cannon array	36	Heavy 8	8	-1	2	If a unit has any models slain by any butcher cannon in the Shooting phase, the unit subtracts 2 from its Leadership for the rest of the turn._This modifier is not cumulative.	75		
-C-beam cannon	72	Heavy 1	6	-3	D3	This weapon may not be fired on any turn in which the model carrying it has moved._In addition, for each 24" between the bearer and the target, increase the Strength by +2 and the Damage by +D3._If a model is removed from play as a casualty due to wounds caused by this weapon, then the target unit suffers 2D6 additional hits at Strength 6, AP 0, causing 1 Damage._These additional hits do not trigger further hits themselves.	30		
+C-beam cannon	72	Heavy 1	6	-3	D3	This weapon may not be fired on any turn in which the model carrying it has moved._In addition, for each 24INCHES between the bearer and the target, increase the Strength by +2 and the Damage by +D3._If a model is removed from play as a casualty due to wounds caused by this weapon, then the target unit suffers 2D6 additional hits at Strength 6, AP 0, causing 1 Damage._These additional hits do not trigger further hits themselves.	30		
 Canker worms	Melee	Melee	2	0	1	After this model makes their close combat attacks, the canker worms infesting Cor’bax make their attacks separately._Make D6 additional attacks using this weapon profile.	0		
 Chainaxe	Melee	Melee	+1	-1	1	-	1		
 Chainfist	Melee	Melee	x2	-4	2	When attacking with this weapon, you must subtract 1 from the hit roll.	10		
@@ -48,7 +48,7 @@ Defiler scourge	Melee	Melee	+4	-2	3	Each time the bearer fights, it can make 3 a
 Demolisher cannon	24	Heavy D6	10	-3	D6	Blast	0		
 Diseased claws and fangs	Melee	Melee	User	0	1	Re-roll wound rolls of 1 for this weapon.	0		
 Diseased claws and teeth	Melee	Melee	User	0	1	Plague Weapon	0		
-Dreadhammer siege cannon	24	Heavy 2D6	10	-5	3	Blast_If the Typhon does not move in the Movement phase, then the range of this weapon is increased to 48" for the duration of the current turn.	0		
+Dreadhammer siege cannon	24	Heavy 2D6	10	-5	3	Blast_If the Typhon does not move in the Movement phase, then the range of this weapon is increased to 48INCHES for the duration of the current turn.	0		
 Dreadstrike missiles	120	Heavy 4	10	-3	2D3	-	0		
 Dual Malignatas saker	48	Heavy 2	*	-5	D6	This weapon does not roll to wound as normal, instead roll 3D6 and compare the total rolled to the target model’s Leadership characteristic, if the total equals or exceeds the Leadership characteristic then the target model is wounded.	40		
 Ectoplasma battery	24	Heavy 5	8	-3	3	If any hit roll made in a given phase results in a score or a ‘1’, then the firing unit suffers one mortal wound.	50		
