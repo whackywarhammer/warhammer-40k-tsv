@@ -1,203 +1,203 @@
 WEAPON	RANGE	TYPE	STRENGTH	ARMOUR PENETRATION	DAMAGE	ABILITIES 	COST	INFANTRY	PAIR
-Acid spit	8"	Pistol 1	User	-1	1	-	0		
+Acid spit	8	Pistol 1	User	-1	1	-	0		
 Attendants’ claws and teeth	Melee	Melee	2	0	1	Plague Weapon_Each time Mortarion fights, he may make D6 additional attacks with this weapon.	0		
-Autogun	24"	Rapid Fire 1	3	0	1	-	0		
-Autopistol	12"	Pistol 1	3	0	1	-	0		
-Balefire missiles	36"	Heavy 2D3	6	-1	D3	Blast_Units targeted by this weapon do not gain any bonus to their saving throws for being in cover.	30		
+Autogun	24	Rapid Fire 1	3	0	1	-	0		
+Autopistol	12	Pistol 1	3	0	1	-	0		
+Balefire missiles	36	Heavy 2D3	6	-1	D3	Blast_Units targeted by this weapon do not gain any bonus to their saving throws for being in cover.	30		
 Balesword	Melee	Melee	User	-3	1	Plague Weapon	5		
-Battle cannon	72"	Heavy D6	8	-2	D3	Blast	0		
-Belly-flamer	8"	Assault D6	4	0	1	This weapon automatically hits its target.	0		
-Bile maw	12"	Pistol D3	8	-2	D3	You can re-roll any wound rolls of 1 when attacking with this weapon.	0		
-Bile spurt	12"	Assault D3	6	-1	1	Blast_Plague Weapon	0		
+Battle cannon	72	Heavy D6	8	-2	D3	Blast	0		
+Belly-flamer	8	Assault D6	4	0	1	This weapon automatically hits its target.	0		
+Bile maw	12	Pistol D3	8	-2	D3	You can re-roll any wound rolls of 1 when attacking with this weapon.	0		
+Bile spurt	12	Assault D3	6	-1	1	Blast_Plague Weapon	0		
 Blade of Decay	Melee	Melee	+2	-4	6	-	0		
 Blade struts	Melee	Melee	User	-2	2	-	0		
-Blight grenade	6"	Grenade D6	3	0	1	Blast_Plague Weapon	0		
-Blight launcher	24"	Assault 2	6	-2	D3	Plague Weapon	10		
-Blightreaper cannon	36"	Heavy 4	7	-1	2	Each time you make a wound roll of 6+ for this weapon, that hit is resolved with an AP of -3 instead of -1.	0		
+Blight grenade	6	Grenade D6	3	0	1	Blast_Plague Weapon	0		
+Blight launcher	24	Assault 2	6	-2	D3	Plague Weapon	10		
+Blightreaper cannon	36	Heavy 4	7	-1	2	Each time you make a wound roll of 6+ for this weapon, that hit is resolved with an AP of -3 instead of -1.	0		
 Bloodsucking proboscis	Melee	Melee	User	0	1	Each unmodified hit roll of 6 made for an attack with this weapon scores 2 hits.	0		
-Bolt pistol	12"	Pistol 1	4	0	1	-	0		
-Boltgun	24"	Rapid Fire 1	4	0	1	-	0		
+Bolt pistol	12	Pistol 1	4	0	1	-	0		
+Boltgun	24	Rapid Fire 1	4	0	1	-	0		
 Brutal assault weapon	Melee	Melee	User	0	1	Each time the bearer fights, it can make 1 additional attack with this weapon.	0		
 Bubotic axe	Melee	Melee	+1	-2	1	Plague Weapon	5		
-Butcher cannon	36"	Heavy 4	8	-1	2	If a unit has any models slain by any butcher cannon in the Shooting phase, the unit must subtract 2 from its Leadership for the rest of the turn._This modifier is not cumulative.	35		
-Butcher cannon array	36"	Heavy 8	8	-1	2	If a unit has any models slain by any butcher cannon in the Shooting phase, the unit subtracts 2 from its Leadership for the rest of the turn._This modifier is not cumulative.	75		
-C-beam cannon	72"	Heavy 1	6	-3	D3	This weapon may not be fired on any turn in which the model carrying it has moved._In addition, for each 24" between the bearer and the target, increase the Strength by +2 and the Damage by +D3._If a model is removed from play as a casualty due to wounds caused by this weapon, then the target unit suffers 2D6 additional hits at Strength 6, AP 0, causing 1 Damage._These additional hits do not trigger further hits themselves.	30		
+Butcher cannon	36	Heavy 4	8	-1	2	If a unit has any models slain by any butcher cannon in the Shooting phase, the unit must subtract 2 from its Leadership for the rest of the turn._This modifier is not cumulative.	35		
+Butcher cannon array	36	Heavy 8	8	-1	2	If a unit has any models slain by any butcher cannon in the Shooting phase, the unit subtracts 2 from its Leadership for the rest of the turn._This modifier is not cumulative.	75		
+C-beam cannon	72	Heavy 1	6	-3	D3	This weapon may not be fired on any turn in which the model carrying it has moved._In addition, for each 24" between the bearer and the target, increase the Strength by +2 and the Damage by +D3._If a model is removed from play as a casualty due to wounds caused by this weapon, then the target unit suffers 2D6 additional hits at Strength 6, AP 0, causing 1 Damage._These additional hits do not trigger further hits themselves.	30		
 Canker worms	Melee	Melee	2	0	1	After this model makes their close combat attacks, the canker worms infesting Cor’bax make their attacks separately._Make D6 additional attacks using this weapon profile.	0		
 Chainaxe	Melee	Melee	+1	-1	1	-	1		
 Chainfist	Melee	Melee	x2	-4	2	When attacking with this weapon, you must subtract 1 from the hit roll.	10		
 Chainsword	Melee	Melee	User	0	1	When the bearer fights, it makes 1 additional attack with this weapon.	0		
-Combi-bolter	24"	Rapid Fire 2	4	0	1	-	3		
+Combi-bolter	24	Rapid Fire 2	4	0	1	-	3		
 Combi-flamer						When attacking with this weapon, choose one or both of the profiles below. If you choose both, subtract 1 from all hit rolls for this weapon. 	10		
-Combi-flamer - Boltgun	24"	Rapid Fire 1	4	0	1	-			
-Combi-flamer - Flamer	8"	Assault D6	4	0	1	This weapon automatically hits its target.			
+Combi-flamer - Boltgun	24	Rapid Fire 1	4	0	1	-			
+Combi-flamer - Flamer	8	Assault D6	4	0	1	This weapon automatically hits its target.			
 Combi-melta						When attacking with this weapon, choose one or both of the profiles below. If you choose both, subtract 1 from all hit rolls for this weapon. 	10		
-Combi-melta - Boltgun	24"	Rapid Fire 1	4	0	1	-			
-Combi-melta - Meltagun	12"	Assault 1	8	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.			
+Combi-melta - Boltgun	24	Rapid Fire 1	4	0	1	-			
+Combi-melta - Meltagun	12	Assault 1	8	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.			
 Combi-plasma						When attacking with this weapon, choose one or both of the profiles below. If you choose both, subtract 1 from all hit rolls for this weapon. 	10		
-Combi-plasma - Boltgun	24"	Rapid Fire 1	4	0	1	-			
-Combi-plasma - Plasma gun	24"	Rapid Fire 1	7	-3	1	This weapon can be supercharged by the bearer before firing._If they do so, increase the Strength and Damage of the weapon by 1 this turn._On any hit rolls of 1 when firing supercharge, the bearer is slain after all of the weapon’s shots have been resolved.			
-Contagion spray	9"	Pistol 2D3	*	-2	1	Attacks made with this weapon automatically hit the selected target._This weapon always wounds on a result of a 2+ unless the target unit has the VEHICLE keyword, in which case a result of 6+ is required.	0		
+Combi-plasma - Boltgun	24	Rapid Fire 1	4	0	1	-			
+Combi-plasma - Plasma gun	24	Rapid Fire 1	7	-3	1	This weapon can be supercharged by the bearer before firing._If they do so, increase the Strength and Damage of the weapon by 1 this turn._On any hit rolls of 1 when firing supercharge, the bearer is slain after all of the weapon’s shots have been resolved.			
+Contagion spray	9	Pistol 2D3	*	-2	1	Attacks made with this weapon automatically hit the selected target._This weapon always wounds on a result of a 2+ unless the target unit has the VEHICLE keyword, in which case a result of 6+ is required.	0		
 Corrupted staff	Melee	Melee	+2	-1	D3	-	0		
 Cursed plague bell	Melee	Melee	User	0	2	Plague Weapon	0		
 Daemonic axe	Melee	Melee	+1	-3	3	When attacking with this weapon, you must subtract 1 from the hit roll.	10		
-Death’s heads	12"	Assault 2	4	0	1	Plague Weapon	0		
+Death’s heads	12	Assault 2	4	0	1	Plague Weapon	0		
 Decimator siege claw	Melee	Melee	+2	-3	3	-	30		40
-Decimator storm laser	24"	Assault 5	6	-2	1	-	25		
+Decimator storm laser	24	Assault 5	6	-2	1	-	25		
 Defiler claws	Melee	Melee	x2	-3	D6	-	0		
 Defiler scourge	Melee	Melee	+4	-2	3	Each time the bearer fights, it can make 3 additional attacks with this weapon.	10		
-Demolisher cannon	24"	Heavy D6	10	-3	D6	Blast	0		
+Demolisher cannon	24	Heavy D6	10	-3	D6	Blast	0		
 Diseased claws and fangs	Melee	Melee	User	0	1	Re-roll wound rolls of 1 for this weapon.	0		
 Diseased claws and teeth	Melee	Melee	User	0	1	Plague Weapon	0		
-Dreadhammer siege cannon	24"	Heavy 2D6	10	-5	3	Blast_If the Typhon does not move in the Movement phase, then the range of this weapon is increased to 48" for the duration of the current turn.	0		
-Dreadstrike missiles	120"	Heavy 4	10	-3	2D3	-	0		
-Dual Malignatas saker	48"	Heavy 2	*	-5	D6	This weapon does not roll to wound as normal, instead roll 3D6 and compare the total rolled to the target model’s Leadership characteristic, if the total equals or exceeds the Leadership characteristic then the target model is wounded.	40		
-Ectoplasma battery	24"	Heavy 5	8	-3	3	If any hit roll made in a given phase results in a score or a ‘1’, then the firing unit suffers one mortal wound.	50		
-Ectoplasma blaster	18"	Assault 2	8	-3	2	If any hit roll made in a given phase results in a score of a ‘1’, then the firing unit suffers one mortal wound.	10		
-Ectoplasma cannon	24"	Heavy D3	7	-3	D3	Blast	20		
-Entropy cannon	36"	Heavy 1	8	-4	D6	-	15		
+Dreadhammer siege cannon	24	Heavy 2D6	10	-5	3	Blast_If the Typhon does not move in the Movement phase, then the range of this weapon is increased to 48" for the duration of the current turn.	0		
+Dreadstrike missiles	120	Heavy 4	10	-3	2D3	-	0		
+Dual Malignatas saker	48	Heavy 2	*	-5	D6	This weapon does not roll to wound as normal, instead roll 3D6 and compare the total rolled to the target model’s Leadership characteristic, if the total equals or exceeds the Leadership characteristic then the target model is wounded.	40		
+Ectoplasma battery	24	Heavy 5	8	-3	3	If any hit roll made in a given phase results in a score or a ‘1’, then the firing unit suffers one mortal wound.	50		
+Ectoplasma blaster	18	Assault 2	8	-3	2	If any hit roll made in a given phase results in a score of a ‘1’, then the firing unit suffers one mortal wound.	10		
+Ectoplasma cannon	24	Heavy D3	7	-3	D3	Blast	20		
+Entropy cannon	36	Heavy 1	8	-4	D6	-	15		
 Eternal hunger	Melee	Melee	User	-3	D3	-	0		
 Fanged maw and stinger	Melee	Melee	User	-1	1	-	0		
 Fellblade accelerator cannon						When firing this weapon, select one of the two profiles below.	0		
-Fellblade accelerator cannon - AE shells	100"	Heavy 2	14	-4	6	-			
-Fellblade accelerator cannon - HE shells	100"	Heavy 2D6	8	-3	2	Blast_When attacking units with five or more models, the dice rolled to decide the number of shots fired may be re-rolled.			
+Fellblade accelerator cannon - AE shells	100	Heavy 2	14	-4	6	-			
+Fellblade accelerator cannon - HE shells	100	Heavy 2D6	8	-3	2	Blast_When attacking units with five or more models, the dice rolled to decide the number of shots fired may be re-rolled.			
 Fist of decay	Melee	Melee	+3	-1	1	If an attack made with this weapon causes an unsaved wound to a model, roll a D6._On a 4+, the model suffers an additional D6 wounds.	0		
 Flail of corruption	Melee	Melee	+2	-2	2	Plague Weapon_Make D3 hit rolls for each attack with this weapon, instead of 1._Excess damage from this weapon is not lost; instead, keep allocating damage to another model in the target unit until either all the damage has been allocated or the unit has been destroyed.	15		
-Flamer	8"	Assault D6	4	0	1	This weapon automatically hits its target.	5		
+Flamer	8	Assault D6	4	0	1	This weapon automatically hits its target.	5		
 Fleshmower	Melee	Melee	+2	-2	2	Plague Weapon_Each time a Foetid Bloat-Drone fights, it can make 6 additional attacks with this weapon.	10		
 Fleshripper claws	Melee	Melee	+1	-2	2	-	0		
 Force axe	Melee	Melee	+1	-2	D3	-	0		
 Force stave	Melee	Melee	+2	-1	D3	-	0		
 Force sword	Melee	Melee	User	-3	D3	-	0		
-Frag grenade	6"	Grenade D6	3	0	1	Blast	0		
+Frag grenade	6	Grenade D6	3	0	1	Blast	0		
 Gaping maw	Melee	Melee	User	-3	3	All rolls of 6 to hit with this weapon become 3 hits each.	0		
 Gnashing maw	Melee	Melee	User	-2	1	Plague Weapon	0		
-Grasping tongue	7"	Pistol 1	4	0	1	-	0		
-Grav-flux bombard	18"	Heavy D3	9	-5	2	Blast_If the target model is a MONSTER, VEHICLE or TITANIC then the amount of Damage suffered from successful attacks becomes 5 per hit._For every five models in the target unit, add D3 to the number of attacks made by this weapon.	65		
+Grasping tongue	7	Pistol 1	4	0	1	-	0		
+Grav-flux bombard	18	Heavy D3	9	-5	2	Blast_If the target model is a MONSTER, VEHICLE or TITANIC then the amount of Damage suffered from successful attacks becomes 5 per hit._For every five models in the target unit, add D3 to the number of attacks made by this weapon.	65		
 Great plague cleaver	Melee	Melee	x2	-3	D6	Plague Weapon_When attacking with this weapon, you must subtract 1 from the hit roll.	15		
-Greater havoc launcher	48"	Heavy 3D3	6	-1	1	Blast_This weapon can target units that are not visible to the bearer.	20		
-Havoc launcher	48"	Heavy D6	5	0	1	Blast	5		
-Heavy blight launcher	36"	Assault 6	6	-2	D3	Plague Weapon	25		
-Heavy bolter	36"	Heavy 3	5	-1	1	-	15	10	
-Heavy flamer	8"	Heavy D6	5	-1	1	This weapon automatically hits its target.	15	10	
-Heavy slugger	36"	Heavy 4	5	-1	1	-	0		
-Heavy stubber	36"	Heavy 3	4	0	1	-	5		
+Greater havoc launcher	48	Heavy 3D3	6	-1	1	Blast_This weapon can target units that are not visible to the bearer.	20		
+Havoc launcher	48	Heavy D6	5	0	1	Blast	5		
+Heavy blight launcher	36	Assault 6	6	-2	D3	Plague Weapon	25		
+Heavy bolter	36	Heavy 3	5	-1	1	-	15	10	
+Heavy flamer	8	Heavy D6	5	-1	1	This weapon automatically hits its target.	15	10	
+Heavy slugger	36	Heavy 4	5	-1	1	-	0		
+Heavy stubber	36	Heavy 3	4	0	1	-	5		
 Helbrute fist	Melee	Melee	x2	-3	3	-	20		30
 Helbrute hammer	Melee	Melee	x2	-4	D6	When attacking with this weapon, you must subtract 1 from the hit roll.	30		
-Helbrute plasma cannon	36"	Heavy D3	8	-3	2	Blast_For each hit roll of 1, the bearer suffers a mortal wound after all of this weapon’s shots have been resolved.	20		
-Hellflamer	8"	Heavy D6	5	-1	2	This weapon automatically hits its target.	20		
+Helbrute plasma cannon	36	Heavy D3	8	-3	2	Blast_For each hit roll of 1, the bearer suffers a mortal wound after all of this weapon’s shots have been resolved.	20		
+Hellflamer	8	Heavy D6	5	-1	2	This weapon automatically hits its target.	20		
 Hellforged chainclaw	Melee	Melee	x2	-4	4	-	30		40
 Hellforged deathclaw	Melee	Melee	x2	-3	3	-	20		30
 Hellforged siege claw	Melee	Melee	x2	-3	3	Re-roll failed wound rolls against INFANTRY.	20		30
 Hellforged siege drill	Melee	Melee	x2	-4	4	-	30		40
 Hellforged sword	Melee	Melee	User	-2	3	-	10		
-Hellstrike battery	72"	Heavy 4	8	-3	3	-	60		
-Hellstrike missiles	72"	Heavy 2	8	-3	3	-	50		
-Helstorm cannon	36"	Heavy 2	6	-2	3	Each time you roll a wound roll of 6+ for this weapon, the target suffers a mortal wound in addition to any other damage.	25		
+Hellstrike battery	72	Heavy 4	8	-3	3	-	60		
+Hellstrike missiles	72	Heavy 2	8	-3	3	-	50		
+Helstorm cannon	36	Heavy 2	6	-2	3	Each time you roll a wound roll of 6+ for this weapon, the target suffers a mortal wound in addition to any other damage.	25		
 Hideous mutations	Melee	Melee	User	-2	2	-	0		
-Horrific vomit	9"	Pistol 2D6	6	-2	D3	This weapon hits automatically.	0		
+Horrific vomit	9	Pistol 2D6	6	-2	D3	This weapon hits automatically.	0		
 Horrifying mutations	Melee	Melee	User	-2	1	-	0		
-Hunter-killer missile	48"	Heavy 1	8	-2	D6	The bearer can only shoot with each hunter-killer missile it is equipped with once per battle.	5		
-Hyper blight grenade	6"	Grenade D6	4	0	2	Blast_Plague Weapon_Each wound roll of 6+ made for this weapon inflicts a mortal wound on the target in addition to any other damage.	0		
+Hunter-killer missile	48	Heavy 1	8	-2	D6	The bearer can only shoot with each hunter-killer missile it is equipped with once per battle.	5		
+Hyper blight grenade	6	Grenade D6	4	0	2	Blast_Plague Weapon_Each wound roll of 6+ made for this weapon inflicts a mortal wound on the target in addition to any other damage.	0		
 Improvised weapon	Melee	Melee	User	0	1	-	0		
-Infernal flamestorm cannon	8"	Heavy 2D6	5	-1	2	This weapon automatically hits its target.	45		
+Infernal flamestorm cannon	8	Heavy 2D6	5	-1	2	This weapon automatically hits its target.	45		
 Infernal hunger	Melee	Melee	User	-3	1	-	0		
-Injector pistol	3"	Pistol 1	4	-1	D6	Plague Weapon_This weapon's Damage changes to 1 when attacking VEHICLES.	0		
+Injector pistol	3	Pistol 1	4	-1	D6	Plague Weapon_This weapon's Damage changes to 1 when attacking VEHICLES.	0		
 Iron claw	Melee	Melee	x2	-3	D6	-	0		
-Kharybdis storm launchers	24"	Heavy 3	6	-1	1	-	0		
-Kheres assault cannon	24"	Heavy 6	7	-1	1	-	25		
-Krak grenade	6"	Grenade 1	6	-1	D3	-	0		
-Lascannon	48"	Heavy 1	9	-3	D6	-	20	15	
-Laser destroyer	36"	Heavy 1	12	-4	D6	If this weapon successfully inflicts damage, roll an additional D6._On a result of a ‘3-5’, the weapon’s Damage is increased to 2D6._On a result of a ‘6’, the weapon’s Damage is increased to 3D6.	60		
+Kharybdis storm launchers	24	Heavy 3	6	-1	1	-	0		
+Kheres assault cannon	24	Heavy 6	7	-1	1	-	25		
+Krak grenade	6	Grenade 1	6	-1	D3	-	0		
+Lascannon	48	Heavy 1	9	-3	D6	-	20	15	
+Laser destroyer	36	Heavy 1	12	-4	D6	If this weapon successfully inflicts damage, roll an additional D6._On a result of a ‘3-5’, the weapon’s Damage is increased to 2D6._On a result of a ‘6’, the weapon’s Damage is increased to 3D6.	60		
 Laser volley cannon						When firing this weapon, choose one of the following profiles.	0		
-Laser volley cannon - Volley fire	36"	Heavy 2	9	-3	3	-			
-Laser volley cannon - Overcharge fire	36"	Heavy 2	10	-5	6	If any hit rolls made for this weapon result in one or more results of a ‘1’, the firing vehicle suffers 3 mortal wounds.			
+Laser volley cannon - Volley fire	36	Heavy 2	9	-3	3	-			
+Laser volley cannon - Overcharge fire	36	Heavy 2	10	-5	6	If any hit rolls made for this weapon result in one or more results of a ‘1’, the firing vehicle suffers 3 mortal wounds.			
 Lightning claw	Melee	Melee	User	-2	1	You can re-roll failed wound rolls for this weapon._If a model is armed with two lightning claws, each time it fights it can make 1 additional attack with them.	5		10
 Mace of contagion	Melee	Melee	+2	-1	3	Plague Weapon_When attacking with this weapon, you must subtract 1 from the hit roll.	5		
-Magna-melta cannon	24"	Heavy D3	10	-4	D6	Blast_If the target of an attack by this weapon is within half range, roll an additional dice when inflicting damage and discard the lowest result.	40		
+Magna-melta cannon	24	Heavy D3	10	-4	D6	Blast_If the target of an attack by this weapon is within half range, roll an additional dice when inflicting damage and discard the lowest result.	40		
 Malefic talons	Melee	Melee	User	-2	2	Each time a model with malefic talons fights, it can make 1 additional attack with this weapon._A model armed with two sets of malefic talons can make 3 additional attacks with them instead.	0		15
-Malignatas beam cannon	72"	Heavy 4	*	-5	4+D6	This weapon does not roll to wound as normal, instead roll 3D6 and compare the total rolled to the target model’s Ld characteristic, if the total equals or exceeds the Ld characteristic then the target model is wounded.	0		
-Malignatas beam laser	36"	Heavy 1	*	-5	2D6	The player with this weapon does not roll to wound as normal, instead roll 3D6 and compare the total rolled to the target model’s Leadership characteristic, if the total equals or exceeds it then the target model is wounded.	0		
+Malignatas beam cannon	72	Heavy 4	*	-5	4+D6	This weapon does not roll to wound as normal, instead roll 3D6 and compare the total rolled to the target model’s Ld characteristic, if the total equals or exceeds the Ld characteristic then the target model is wounded.	0		
+Malignatas beam laser	36	Heavy 1	*	-5	2D6	The player with this weapon does not roll to wound as normal, instead roll 3D6 and compare the total rolled to the target model’s Leadership characteristic, if the total equals or exceeds it then the target model is wounded.	0		
 Manreaper	Melee	Melee	+3	-3	D3	Plague Weapon	15		
 Master-crafted manreaper	Melee	Melee	+3	-3	3	Plague Weapon	0		
-Melta cutter	12"	Assault D3	8	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.	0		
+Melta cutter	12	Assault D3	8	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.	0		
 Melta cutters	Melee	Melee	16	-5	2D6	Normal attacks may not be made using this profile, instead if the Hellforged Kharybdis successfully charges a model with the VEHICLE, MONSTER or TITANIC keywords, the controlling player may choose to forfeit all of its standard attacks to make a single attack with this profile that hits its target on a 2+.	0		
-Meltagun	12"	Assault 1	8	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.	10		
+Meltagun	12	Assault 1	8	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.	10		
 Missile launcher						When attacking with this weapon, choose one of the profiles below.	20	15	
-Missile launcher - Frag missile	48"	Heavy D6	4	0	1	Blast			
-Missile launcher - Krak missile	48"	Heavy 1	8	-2	D6	-			
-Multi-melta	24"	Heavy 1	8	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.	25	20	
+Missile launcher - Frag missile	48	Heavy D6	4	0	1	Blast			
+Missile launcher - Krak missile	48	Heavy 1	8	-2	D6	-			
+Multi-melta	24	Heavy 1	8	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.	25	20	
 Mutated limbs and improvised weapons	Melee	Melee	User	-1	1	-	0		
 Nurglings	Melee	Melee	2	0	1	After this model makes its close combat attacks, the Nurglings infesting Scabeiathrax the Bloated make their attacks separately._Make D6 additional attacks using this weapon profile._You can re-roll wound rolls of a 1 for these attacks.	0		
 Nurglings’ claws and teeth	Melee	Melee	2	0	1	When the bearer fights, it makes D6 additional attacks with this weapon and no more than those D6 attacks can be made with this weapon._When resolving an attack made with this weapon, re-roll a wound roll of 1.	0		
-Phosphex bombs	6"	Grenade 2D6	5	-1	1	Blast	0		
-Plague belcher	9"	Assault D6	4	0	1	Plague Weapon_This weapon automatically hits its target.	5		
+Phosphex bombs	6	Grenade 2D6	5	-1	1	Blast	0		
+Plague belcher	9	Assault D6	4	0	1	Plague Weapon_This weapon automatically hits its target.	5		
 Plague cleaver	Melee	Melee	User	-2	2	Re-roll wound rolls of 1 for this weapon.	0		
 Plague knife	Melee	Melee	User	0	1	Plague Weapon	0		
 Plague probe	Melee	Melee	User	-2	D3	Plague Weapon	0		
-Plague spewer	9"	Heavy D6	5	-1	1	Plague Weapon_This weapon automatically hits its target.	10		
-Plague sprayer	9"	Assault D6	2D6	-3	3	Plague Weapon_This weapon automatically hits its target._Roll to determine the Strength of this weapon after selecting a target but before determining how many shots are fired.	0		
-Plagueburst mortar	12"-48"	Heavy D6	8	-2	D3	Blast_Plague Weapon_This weapon can target units that are not visible to the firing model.	0		
+Plague spewer	9	Heavy D6	5	-1	1	Plague Weapon_This weapon automatically hits its target.	10		
+Plague sprayer	9	Assault D6	2D6	-3	3	Plague Weapon_This weapon automatically hits its target._Roll to determine the Strength of this weapon after selecting a target but before determining how many shots are fired.	0		
+Plagueburst mortar	12-48	Heavy D6	8	-2	D3	Blast_Plague Weapon_This weapon can target units that are not visible to the firing model.	0		
 Plaguereaper	Melee	Melee	+2	-3	3	Plague Weapon	20		
-Plaguespitter	9"	Assault D6	User	-1	1	Plague Weapon_This weapon automatically hits its target.	20		
-Plaguespurt gauntlet	6"	Pistol D6	3	0	1	Plague Weapon_This weapon automatically hits its target.	0		
+Plaguespitter	9	Assault D6	User	-1	1	Plague Weapon_This weapon automatically hits its target.	20		
+Plaguespurt gauntlet	6	Pistol D6	3	0	1	Plague Weapon_This weapon automatically hits its target.	0		
 Plaguesword	Melee	Melee	User	0	1	You can re-roll failed wound rolls for this weapon.	0		
-Plasma destroyer	36"	Heavy 2D3	7	-3	2	Blast	40		
+Plasma destroyer	36	Heavy 2D3	7	-3	2	Blast	40		
 Plasma gun						When attacking with this weapon, choose one of the profiles below.	10		
-Plasma gun - Standard	24"	Rapid Fire 1	7	-3	1	-			
-Plasma gun - Supercharge	24"	Rapid Fire 1	8	-3	2	On a hit roll of 1, the bearer is slain after all of this weapon’s shots have been resolved.			
+Plasma gun - Standard	24	Rapid Fire 1	7	-3	1	-			
+Plasma gun - Supercharge	24	Rapid Fire 1	8	-3	2	On a hit roll of 1, the bearer is slain after all of this weapon’s shots have been resolved.			
 Plasma pistol						When attacking with this weapon, choose one of the profiles below.	5		
-Plasma pistol - Standard	12"	Pistol 1	7	-3	1	-			
-Plasma pistol - Supercharge	12"	Pistol 1	8	-3	2	On a hit roll of 1, the bearer is slain.			
+Plasma pistol - Standard	12	Pistol 1	7	-3	1	-			
+Plasma pistol - Supercharge	12	Pistol 1	8	-3	2	On a hit roll of 1, the bearer is slain.			
 Power axe	Melee	Melee	+1	-2	1	-	5		
 Power fist	Melee	Melee	x2	-3	D3	When attacking with this weapon, you must subtract 1 from the hit roll.	10		
 Power maul	Melee	Melee	+2	-1	1	-	5		
 Power scourge	Melee	Melee	+2	-2	2	Each time the bearer fights, it can make 3 additional attacks with this weapon.	25		
 Power sword	Melee	Melee	User	-3	1	-	5		
-Pox pistol	12"	Pistol 1	4	-1	2	-	0		
-Predator autocannon	48"	Heavy 2D3	7	-1	3	-	40		
+Pox pistol	12	Pistol 1	4	-1	2	-	0		
+Predator autocannon	48	Heavy 2D3	7	-1	3	-	40		
 Prehensile proboscis	Melee	Melee	4	0	2	After a model riding a Rot Fly makes its close combat attacks, you can attack with its mount._Make 4 additional attacks using this weapon profile._You can re-roll failed wound rolls for these attacks.	0		
 Pustulant stomp	Melee	Melee	+2	-3	D3	When targeting a unit with this weapon during the Fight phase, add +3 to the Damage caused if the target unit has the INFANTRY keyword.	0		
 Putrid appendages	Melee	Melee	User	0	2	You can re-roll failed wound rolls for this weapon.	0		
-Quad heavy bolter	36"	Heavy 12	5	-1	1	-	60		
-Quad lascannon	48"	Heavy 4	9	-3	D6	-	80		
-Rancid vomit	7"	Pistol D6	5	-2	1	This weapon automatically hits its target.	0		
-Reaper autocannon	36"	Heavy 4	7	-1	1	-	10		
-Reaper battery	36"	Heavy 6	7	-1	1	-	30		
+Quad heavy bolter	36	Heavy 12	5	-1	1	-	60		
+Quad lascannon	48	Heavy 4	9	-3	D6	-	80		
+Rancid vomit	7	Pistol D6	5	-2	1	This weapon automatically hits its target.	0		
+Reaper autocannon	36	Heavy 4	7	-1	1	-	10		
+Reaper battery	36	Heavy 6	7	-1	1	-	30		
 Rider’s plaguesword	Melee	Melee	4	0	1	After all other attacks have been made by a model equipped with this weapon during the Fight phase, it may make an additional two attacks using this weapon profile, re-rolling all failed wound rolls.	0		
-Rot cannon	36"	Heavy D6	6	-3	2	Blast_Against INFANTRY targets, failed wound rolls for this weapon are re-rolled.	0		
-Rothail volley gun	24"	Heavy 3	6	-2	1	-	5		
-Scorpius multi-launcher	48"	Heavy 3D3	6	-2	2	Blast_This weapon can target units not visible to the firing model.	40		
-Shotgun	12"	Assault 2	3	0	1	If the target is within half range, add 1 to this weapon’s Strength.	0		
-Siege melta array	12"	Heavy 4D3	9	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.	0		
+Rot cannon	36	Heavy D6	6	-3	2	Blast_Against INFANTRY targets, failed wound rolls for this weapon are re-rolled.	0		
+Rothail volley gun	24	Heavy 3	6	-2	1	-	5		
+Scorpius multi-launcher	48	Heavy 3D3	6	-2	2	Blast_This weapon can target units not visible to the firing model.	40		
+Shotgun	12	Assault 2	3	0	1	If the target is within half range, add 1 to this weapon’s Strength.	0		
+Siege melta array	12	Heavy 4D3	9	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.	0		
 Silence						When attacking with this weapon, choose one of the profiles below.	0		
 Silence - Eviscerating blow	Melee	Melee	x2	-4	D6	Plague Weapon			
 Silence - Reaping scythe	Melee	Melee	User	-2	1	Plague Weapon_Make 3 hit rolls for each attack with this weapon, instead of 1.			
-Skyreaper battery	48"	Heavy 8	7	-1	5	Add 1 to all hit rolls made for this weapon against targets that can FLY._Subtract 1 from the hit rolls made for this weapon against all other targets.	45		
-Soulburner	24"	Assault D3	-	0	1	Each successful hit roll made with this weapon inflicts a mortal wound instead of the normal damage.	30		
-Soulburner bombard	48"	Heavy 2D3	-	0	1	Blast_Each successful hit roll made with this weapon inflicts a mortal wound instead of the normal damage._This weapon may target enemy units which the bearer cannot see.	90		
-Soulburner petard	24"	Assault 2D3	-	0	1	Each successful hit roll made with this weapon inflicts a mortal wound instead of the normal damage._If any hit roll made in a given phase results in a score or a ‘1’, then the firing unit suffers one mortal wound._This effect can only occur once per phase regardless of how many results of ‘1’ are rolled.	60		
-Soulburner ribaudkin	18"	Heavy 2D3	-	0	1	Each successful hit roll made with this weapon inflicts a mortal wound instead of the normal damage.	70		
-Soulstalker missiles	60"	Heavy D3	7	-2	2	Blast_Each time you roll a wound roll of 5+ for this weapon, the target suffers a mortal wound in addition to the weapon's normal damage.	50		
+Skyreaper battery	48	Heavy 8	7	-1	5	Add 1 to all hit rolls made for this weapon against targets that can FLY._Subtract 1 from the hit rolls made for this weapon against all other targets.	45		
+Soulburner	24	Assault D3	-	0	1	Each successful hit roll made with this weapon inflicts a mortal wound instead of the normal damage.	30		
+Soulburner bombard	48	Heavy 2D3	-	0	1	Blast_Each successful hit roll made with this weapon inflicts a mortal wound instead of the normal damage._This weapon may target enemy units which the bearer cannot see.	90		
+Soulburner petard	24	Assault 2D3	-	0	1	Each successful hit roll made with this weapon inflicts a mortal wound instead of the normal damage._If any hit roll made in a given phase results in a score or a ‘1’, then the firing unit suffers one mortal wound._This effect can only occur once per phase regardless of how many results of ‘1’ are rolled.	60		
+Soulburner ribaudkin	18	Heavy 2D3	-	0	1	Each successful hit roll made with this weapon inflicts a mortal wound instead of the normal damage.	70		
+Soulstalker missiles	60	Heavy D3	7	-2	2	Blast_Each time you roll a wound roll of 5+ for this weapon, the target suffers a mortal wound in addition to the weapon's normal damage.	50		
 Spawning barb	Melee	Melee	User	0	1	Each unmodified hit roll of 6 made for this weapon automatically results in a wound (do not make a wound roll for that attack).	0		
-Storm bolter	24"	Rapid Fire 2	4	0	1	-	3		
+Storm bolter	24	Rapid Fire 2	4	0	1	-	3		
 Tainted force blade	Melee	Melee	+1	-2	D3	You can re-roll wound rolls of 1 for this weapon.	0		
 Termite drill	Melee	Melee	x2	-4	3	After the bearer has made all of its attacks, roll a D6 for each model that suffered damage from this weapon this phase but has not been destroyed; on a 2+ the model being rolled for suffers a mortal wound and, if that model is not destroyed, you can roll another D6._This time, that model suffers a mortal wound on a 3+._Keep rolling a D6, increasing the result required to cause a mortal wound by 1 each time, until the model being rolled for is destroyed or the roll is failed.	0		
-The Destroyer Hive	6"	Pistol 2D6	4	-3	1	This weapon hits on hit rolls of 5+ (even when firing Overwatch), regardless of any modifiers.	0		
-The Lantern	18"	Pistol 1	8	-3	3	If you hit with this weapon, draw a straight line between the closest point of Mortarion’s base and that of the closest model in the target unit._Make a single wound roll against the target unit and each unit the centre of the line passes over.	0		
-Thermal jet array	6"	Pistol D6	8	-1	D3	When fired, this weapon automatically inflicts D6 hits on each unit, friendly or enemy, with at least one model within range._The weapon can only be used if more enemy units will be affected than friendly ones.	0		
-Thermal jets	6"	Pistol D6	6	-1	1	When fired, this weapon automatically inflicts D6 hits on each unit, friendly or enemy, with at least one model within range._The weapon can only be used if more enemy units will be affected than friendly ones.	0		
-Thunderhawk heavy cannon	48"	Heavy 2D6	8	-2	D6	Blast	0		
-Turbo-laser destructor	96"	Heavy D3	16	-4	2D6	Blast_Any wound roll of a 6 made with this attack automatically inflicts an additional D3 mortal wounds on the target.	0		
-Twin accelerator autocannon	48"	Assault 8	7	-1	2	Attacks made with this weapon suffer no penalty to its hit roll when targeting units with the FLY keyword._In addition, every wound roll of 6+ made with this weapon increases the AP of that individual wound to -3.	0		
-Twin autocannon	48"	Heavy 4	7	-1	2	-	30		
-Twin avenger bolt cannon	36"	Heavy 10	6	-2	2	-	0		
-Twin heavy bolter	36"	Heavy 6	5	-1	1	-	30		
-Twin heavy flamer	8"	Heavy 2D6	5	-1	1	This weapon automatically hits its target.	30		
-Twin lascannon	48"	Heavy 2	9	-3	D6	-	40		
-Twin multi-melta	24"	Heavy 2	8	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.	50		
-Twin volcano cannon	120"	Heavy 2D6	16	-5	2D6	Blast_You can re-roll failed wound rolls when targeting TITANIC models with this weapon.	0		
-Twin volkite charger	15"	Heavy 4	5	0	2	-	10		
-Vengeance launcher	48"	Heavy 2D6	5	-1	1	Blast	30		
-Warp bolter	24"	Assault 2	4	-1	2	-	5		
+The Destroyer Hive	6	Pistol 2D6	4	-3	1	This weapon hits on hit rolls of 5+ (even when firing Overwatch), regardless of any modifiers.	0		
+The Lantern	18	Pistol 1	8	-3	3	If you hit with this weapon, draw a straight line between the closest point of Mortarion’s base and that of the closest model in the target unit._Make a single wound roll against the target unit and each unit the centre of the line passes over.	0		
+Thermal jet array	6	Pistol D6	8	-1	D3	When fired, this weapon automatically inflicts D6 hits on each unit, friendly or enemy, with at least one model within range._The weapon can only be used if more enemy units will be affected than friendly ones.	0		
+Thermal jets	6	Pistol D6	6	-1	1	When fired, this weapon automatically inflicts D6 hits on each unit, friendly or enemy, with at least one model within range._The weapon can only be used if more enemy units will be affected than friendly ones.	0		
+Thunderhawk heavy cannon	48	Heavy 2D6	8	-2	D6	Blast	0		
+Turbo-laser destructor	96	Heavy D3	16	-4	2D6	Blast_Any wound roll of a 6 made with this attack automatically inflicts an additional D3 mortal wounds on the target.	0		
+Twin accelerator autocannon	48	Assault 8	7	-1	2	Attacks made with this weapon suffer no penalty to its hit roll when targeting units with the FLY keyword._In addition, every wound roll of 6+ made with this weapon increases the AP of that individual wound to -3.	0		
+Twin autocannon	48	Heavy 4	7	-1	2	-	30		
+Twin avenger bolt cannon	36	Heavy 10	6	-2	2	-	0		
+Twin heavy bolter	36	Heavy 6	5	-1	1	-	30		
+Twin heavy flamer	8	Heavy 2D6	5	-1	1	This weapon automatically hits its target.	30		
+Twin lascannon	48	Heavy 2	9	-3	D6	-	40		
+Twin multi-melta	24	Heavy 2	8	-4	D6	If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.	50		
+Twin volcano cannon	120	Heavy 2D6	16	-5	2D6	Blast_You can re-roll failed wound rolls when targeting TITANIC models with this weapon.	0		
+Twin volkite charger	15	Heavy 4	5	0	2	-	10		
+Vengeance launcher	48	Heavy 2D6	5	-1	1	Blast	30		
+Warp bolter	24	Assault 2	4	-1	2	-	5		
 Warpsword	Melee	Melee	User	-3	3	You can re-roll failed hit rolls for this weapon.	0		
 Yawning maw	Melee	Melee	5	-1	D3	All hit rolls of a 6 made when using this weapon generate a single additional automatic hit.	0		
