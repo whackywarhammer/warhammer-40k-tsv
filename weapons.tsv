@@ -1,4 +1,4 @@
-WEAPON	RANGE	TYPE	STRENGTH	ARMOUR PENETRATION	DAMAGE	ABILITIES 	COST	INFANTRY	PAIR
+WEAPON	RANGE	TYPE	STRENGTH	AP	DAMAGE	ABILITIES 	COST	INFANTRY	PAIR
 Acid spit	8	Pistol 1	User	-1	1	-	0		
 Attendants’ claws and teeth	Melee	Melee	2	0	1	Plague Weapon_Each time Mortarion fights, he may make D6 additional attacks with this weapon.	0		
 Autogun	24	Rapid Fire 1	3	0	1	-	0		
